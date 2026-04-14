@@ -1,13 +1,20 @@
-# 👋 Hello, I'm ttK!
+# 👋 Hi, I'm Nont,
+a developer from 🇹🇭 Thailand.\
+I’m currently learning **Front-end development**.
 
-I'm currently learning **Python** and **Lua (Roblox)**, exploring game development and scripting!
+## 📂 Feature Repository on ![Github](https://img.shields.io/badge/github-gray?logo=github)
+- Terminal Calculator - [Go](https://github.com/thapanon-kunop/Calculator.py)
 
-## 🔥 About Me
-- 🖥️ Passionate about coding and automation
-- 🎮 Love working on **Roblox** projects using Lua
-- 🚀 Always eager to learn new programming skills
+## ⚙️ My Skills
+![Core Languages](https://skillicons.dev/icons?i=html,css,js)
+![Framewroks & Library](https://skillicons.dev/icons?i=react,vite,bootstrap)\
+![Other Skills](https://skillicons.dev/icons?i=md,git,github,python)
 
-## 🛠️ What I'm Working On?
-- 🏗️ Experimenting with **game mechanics** in Roblox
-- 🔧 Learning **advanced scripting** in Python and Lua
-- 🎯 Improving my **coding logic and problem-solving skills**
+## 🛠️ Tools
+![Tools](https://skillicons.dev/icons?i=windows,vscode,powershell,robloxstudio)
+
+## Follow me
+[![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ttKfocus)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram)](https://www.instagram.com/tha.nxnt_/)
+[![Youtube](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads)](https://www.threads.com/@tha.nxnt_)
+[![Youtube](https://img.shields.io/badge/Email-2F3136?style=for-the-badge&logo=maildotru)](mailto:work.thapanon.kunop@gmail.com)
