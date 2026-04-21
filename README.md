@@ -6,7 +6,7 @@ I’m currently learning **Front-end development**.
 - Terminal Calculator [View](https://github.com/thapanon-kunop/Calculator.py)
 
 ## ⚙️ My Skills
-![Front-end development](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind)\
+![Front-end development](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind)\
 ![Other Skills](https://skillicons.dev/icons?i=md,git,github,python)
 
 ## 🛠️ Tools
