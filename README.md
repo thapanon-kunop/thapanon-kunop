@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Nont,
+# 👋 Hi! I'm Nont,
 a developer from 🇹🇭 Thailand.\
 I’m currently learning **Front-end development**.
 
-## 📂 Feature Repository on ![Github](https://img.shields.io/badge/github-gray?logo=github)
-- Terminal Calculator - [Go](https://github.com/thapanon-kunop/Calculator.py)
+## 📂 Feature Repository on [![Github](https://img.shields.io/badge/github-gray?logo=github)](https://github.com/thapanon-kunop)
+- Terminal Calculator [View](https://github.com/thapanon-kunop/Calculator.py)
 
 ## ⚙️ My Skills
-![Core Languages](https://skillicons.dev/icons?i=html,css,js)
-![Framewroks & Library](https://skillicons.dev/icons?i=react,vite,bootstrap)\
+![Front-end development](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind)\
 ![Other Skills](https://skillicons.dev/icons?i=md,git,github,python)
 
 ## 🛠️ Tools
